@@ -1,12 +1,12 @@
 import { StyleSheet, ViewStyle, TextStyle } from 'react-native';
 
 export const colors = {
-  primary: '#DC2626',    // Red
-  secondary: '#B91C1C',  // Darker Red
-  accent: '#F87171',     // Light Red
+  primary: '#1E40AF',    // Deep Blue (Presbyterian blue)
+  secondary: '#1E3A8A',  // Darker Blue
+  accent: '#3B82F6',     // Light Blue
   background: '#FFFFFF', // White background
-  backgroundAlt: '#F9FAFB', // Light gray background
-  text: '#111827',       // Dark text
+  backgroundAlt: '#F8FAFC', // Light gray background
+  text: '#1F2937',       // Dark text
   grey: '#6B7280',       // Gray
   card: '#FFFFFF',       // White card background
   success: '#10B981',    // Green for success messages
